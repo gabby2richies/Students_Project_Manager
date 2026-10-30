@@ -1,0 +1,19 @@
+[
+    {
+        "student_id": "Ak23/phs/csc/077",
+        "name": "Precious George Henry",
+        "age": 27,
+        "course": "Computer Science",
+        "scores": [
+            85.0,
+            60.0
+        ]
+    },
+    {
+        "student_id": "Ak23/phs/csc/099",
+        "name": "Goodnews Effiong Uwem",
+        "age": 24,
+        "course": "Computer Science",
+        "scores": []
+    }
+]
